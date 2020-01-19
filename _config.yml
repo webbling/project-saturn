@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project Legato
-email: eashwar@umich.edu
+title: Project Saturn
+email: webbling@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A project for EECS 499 at the University of Michigan
+  University of Michigan EECS 499 Research
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://projectlegato.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _eashwar
-github_username:  eashwar
+url: "https://project-saturn.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+github_username:  webbling
 
 # Build settings
 plugins:
