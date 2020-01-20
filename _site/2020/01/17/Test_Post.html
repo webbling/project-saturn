@@ -1,25 +1,62 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Test Post</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+<title>1. Test Post | Project Saturn</title>
+<link rel="stylesheet" href="/style/main.css">
+<link rel="stylesheet" href="/style/bootstrap.css">
+<link rel="stylesheet" href="/style/highlight/dracula.css">
+<script src="/script/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script src="/script/jquery-3.4.1.min.js"></script>
+<script src="/script/popper.min.js"></script>
+<script src="/script/bootstrap.min.js""></script>
+    <script defer>
+      setTimeout(() => 
+      {
+          $("a").each(function(elt){
+              if (!$(this).hasClass("navbar-brand") && !$(this).hasClass("nav-link") && !$(this).hasClass("dropdown-item")){
+                  $(this).attr("target", "_blank");
+              }
+          });
+      }, 2000);
+    </script>
   </head>
   <body>
-	<nav>
-	Project Saturn
-  
-    <a href="/Project-Saturn" >Home</a>
-  
-    <a href="/Project-Saturn/about.html" >About</a>
-  
-    <a href="/Project-Saturn/blog.html" >Blog</a>
-  
+    <nav class="navbar navbar-expand navbar-dark bg-dark intro fixed-top">
+    <a class="navbar-brand" href="/" style="font-size: 2vh;">Project Saturn</a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    List of Blog Posts
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    
+                    <a class="dropdown-item" href="/2020/01/17/Test_Post.html">1. 1. Test Post</a>
+                    
+                </div>
+            </li>
+			<!--
+            <li class="nav-item">
+                <a class="nav-link" href="/game">Play the game!</a>
+            </li>
+			-->
+            <li class="nav-item">
+                <a class="nav-link" href="mailto:webbling@umich.edu">Contact Me</a>
+            </li>
+        </ul>
+    </div>
 </nav>
-    <h1>Test Post</h1>
-<p>17 Jan 2020 - Blake</p>
 
-<p>This is a test post.</p>
+    <div class="pt-5">
+      <div class="pt-5">
+        <h1>1. Test Post</h1>
+        <p style="color: lightgray;">January 17, 2020</p>
+        <p>Hello! This was week 1 of EECS 499. I’m going to treat this posts as a test post.</p>
 
+      </div>
+    </div>
   </body>
 </html>
