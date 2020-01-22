@@ -18,23 +18,23 @@ Searching was done through Google Scholar. I collected 20 potentially relevent s
 
 #### [Kirriemuir, John, and Angela McFarlane. "Use of Computer and Video Games in the Classroom." DiGRA Conference. 2003.](https://s3.amazonaws.com/academia.edu.documents/35176047/Utrecht_2003.pdf?response-content-disposition=inline%3B%20filename%3DUse_of_Computer_and_Video_Games_in_the_C.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200122T064311Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ea6439d9f791c3fe43f7e808ad00fa62448cc2ed3901199ecb1531fb9a961b62)
 
-**What this research discusses**:
+**What this research discusses**: The research explained in this paper looked into several ways computer games were being used in educational environments from being a pure academic game to being a reward for good students. Through surveys it highlighted key concerns. The most important concerns were the time it took to learn a video game, forcing learning scenarios to occur, and game taught material matching the curriculum. 
 
-**How it impacts Project Saturn**:
+**How it impacts Project Saturn**: Based on the survey results from this article, Project Saturn should not be a mechanically difficult game to learn. You should not have to be "good" at video games in order to play it and learn the material. 
 
 #### [Lee, Jeremy, et al. "More than just fun and games: Assessing the value of educational video games in the classroom." CHI'04 extended abstracts on Human factors in computing systems. 2004.](https://dl.acm.org/doi/abs/10.1145/985921.986068)
 
 (PDF available for free through U of M library)
 
-**What this research discusses**:
+**What this research discusses**: Before diving into the results of the conducted case study it talks about the stigma that all video games are purely toys and that this stigma must be overcome in order for games to exist in a K-12 classroom. It also mentions how education games in this market sector cannot be price locked by expensive equipement. The paper then goes on to mention specific features of the game used in their case study and how each feature contibuted to the learning process of the student.
 
-**How it impacts Project Saturn**:
+**How it impacts Project Saturn**: When starting development of Project Saturn this paper will help guide the feature list of the game in order to achieve a sufficient educational experience for the player.
 
 #### [Stapleton, Andrew J. "Serious games: Serious opportunities." Australian Game Developers‟ Conference, Academic Summit, Melbourne. 2004.](https://pdfs.semanticscholar.org/4111/2ebb4c3d3012754a3c1e4da700940c33e284.pdf)
 
-**What this research discusses**:
+**What this research discusses**: This paper discusses that all video games create a learning experience by having players overcome challenges and other obstacles. It also talks about 2 types of students, learning-centered and teacher-centered. The paper provides a good metaphor for these types of students. Learning-centered students would be the person driving their own car and teaching-centered students would be the person taking public transportation. The best educational games create opportunities for players to *learn* versus creating a product that *teaches*.
 
-**How it impacts Project Saturn**:
+**How it impacts Project Saturn**: My goal with Project Saturn should be to create a game that makes players feel like they are finding the knowledge themselves instead of having me provide it for them. 
 
 ### Remaining 17 Papers
 
