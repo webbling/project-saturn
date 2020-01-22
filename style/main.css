@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, p, pre, .post-title, ol, ul, iframe {
     margin-left: 10vw;
 }
 
-h1, h2, h3, .post-title {
+h1, h2, h3, h4, .post-title {
     padding-bottom: 2vh;
 }
 
@@ -24,7 +24,7 @@ h2 {
     color: white;
 }
 
-h3 {
+h3, h4 {
     color: lightgray;
 }
 
@@ -49,7 +49,7 @@ a.post-title:hover {
     font-size: 2.5vh;
 }
 
-#project-legato {
+#project-saturn {
     font-size: 4vh;
 }
 
@@ -61,11 +61,11 @@ ol a:hover {
     color: lightslategray;
 }
 
-h3 a {
+h3, h4 a {
     color: lightgray;
 }
 
-h3 a:hover {
+h3, h4 a:hover {
     color: lightslategray;
 }
 
