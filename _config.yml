@@ -21,7 +21,7 @@
 title: Project Saturn
 email: webbling@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  University of Michigan Wolverine Soft MDP
+  University of Michigan EECS 499 Research Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.project-saturn.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 

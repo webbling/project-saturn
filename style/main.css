@@ -3,6 +3,10 @@ h1, h2, h3, h4, h5, p, pre, .post-title, ol, ul, iframe {
     margin-left: 10vw;
 }
 
+.body {
+	background-color: #dfbe77;
+}
+
 h1, h2, h3, h4, .post-title {
     padding-bottom: 2vh;
 }
@@ -16,25 +20,25 @@ a.nav-link {
 }
 
 h1 {
-    color: white;
+    color: #A45F2E;
     font-size: 3.5vh; 
 }
 
 h2 {
-    color: white;
+    color: #A45F2E;
 }
 
 h3, h4 {
-    color: lightgray;
+    color: #AE7247;
 }
 
 a.post-title {
     font-size: 2.5rem;
-    color: white;
+    color: #A45F2E;
 }
 
 a.post-title:hover {
-    color: lightslategray;
+    color: #437C79;
 }
 
 .card {
@@ -54,19 +58,23 @@ a.post-title:hover {
 }
 
 ol a {
-    color: white;
+    color: #437C79;
 }
 
 ol a:hover {
-    color: lightslategray;
+    color: #2D5553;
+}
+
+li {
+    color: #28434B;	
 }
 
 h3, h4 a {
-    color: lightgray;
+    color: #EE9352;
 }
 
 h3, h4 a:hover {
-    color: lightslategray;
+    color: #AE7247;
 }
 
 img {

@@ -18,6 +18,11 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
+  --dark-saturn: #142125;
+  --green-saturn: #1f3938;
+  --orange-saturn: #ae7247;
+  --gold-saturn: #dfbe77;
+  --light-saturn: #fbe49a;
   --primary: #007bff;
   --secondary: #6c757d;
   --success: #28a745;
@@ -59,7 +64,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: rgb(154, 174, 194);
-  background-color: rgb(27, 51, 51);
+  background-color: #FBE49A;
   text-align: left;
 }
 
@@ -78,9 +83,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
+h5 {
+  color: #AE7247;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  color: #142125;
 }
 
 abbr[title],
@@ -153,13 +163,13 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #437C79;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #2D5553;
   text-decoration: underline;
 }
 
@@ -4559,7 +4569,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #FBE49A;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -6580,7 +6590,11 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #E4D08D !important;
+}
+
+.bg-darker { 
+  background-color: #28434B
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
