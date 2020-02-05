@@ -42,4 +42,32 @@ Here is a GIF of the gameplay. Once the bar is filled the mini game will end and
 
 # Stakeholder Updates
 
-This afternoon I spoke with Professor Barry Fishman 
+This afternoon I spoke with Professor Barry Fishman who teaches the Video Games & Learning course at the University of Michigan. Since I still don't know the best direction to take Project Saturn, I knew he would be able to provide some good insight.
+
+<!--more-->
+
+### Questions
+
+##### Does a non trivia centric video game have a place inside a traditional classroom?
+ 
+- Short answer yes. He believes video games inherently provide learning environments. This response aligns with my research conducted in week 2.
+	
+#### Do you think video games can be used as a sufficient alternative for classroom lecture?
+
+- We discussed how even a poorly made educational video game that taught as much as a poorly conducted classroom lecture would be more fun for the students. Both lectures and games have their place in an educational sphere.
+	
+#### What should every educational video game have?
+
+- A good educational video game will set up an environment for the player to learn on their own. The harder the task/challenge, the more rewarding it will be for the player to complete. Professor Fishman also talked about how showing learning progression can be a very important aspect of educational video games. Increasingly harder challenges or a level progression system can show how much a player has learned.
+	
+#### Alternatively, what should every educational video game avoid?
+
+- A thing that some educational games suffer from is being made in the wrong genre. A spaceship shooter that requires math skills to progress might be fun to play at first, but it stuggles to teach anything new and becomes stale. He thinks its important to make an educational video game in a genre catered to the material you're teaching players.
+	
+#### What is the best platform for an educational video game in the grade 9+ range?
+
+- A web based game that can be played on a browser already installed on school computers would be best. It shouldn't be hosted in a location that's likely to be blocked by school firewalls. In a somewhat distant second place would be mobile phones and tablets, but this platform is not as accessible as a web based game.
+
+### Conclusion
+
+I spoke with Professor Fishman about my tech demo this week. He suggested that I try to aim for a genre that would represent personal finance better than a falling block minigame. As we were finishing our meeting I told him about my Global Game Jam game I made this past weekend. It was about a robot that lost power as he moved and have to complete tasks that recharged his power. He said I could alter that concept and make it related to personal finance by making the character lose money during the level instead of battery. Even after spending 30+ hours at the Game Jam this past weekend I never thought to connect that concept to personal finance! Overall it was a very good meeting that led to more paths for my project. 
