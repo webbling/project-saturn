@@ -20,9 +20,13 @@ I think developing a game that emulates this activity would be a very valuable w
 
 ## Basic Design Concept
 
+![Basic Design Concept 3](/images/Design-Concept-3.png)
+
+The game begins with a setup scene. In this scene the player chooses most of their monthly costs such as transportation, living arrangements, and more. Decisions made during setup will greatly impact the difficulty of the game. 
+
 ![Basic Design Concept 1](/images/Design-Concept-1.png)
 
-Right now I'm imagining the game is a single scene. In this scene you have multiple components that either display the game state, the player's profile, and the player's resources.
+Right now I'm imagining the game is a single scene after setup. In this scene you have multiple components that either display the game state, the player's profile, and the player's resources.
 
 <!--more-->
 
