@@ -69,6 +69,10 @@ li {
     color: #28434B;	
 }
 
+li p, ol p {
+	margin-left: 0;
+}
+
 h3, h4 a {
     color: #EE9352;
 }
