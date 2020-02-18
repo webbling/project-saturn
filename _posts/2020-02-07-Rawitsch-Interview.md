@@ -63,7 +63,7 @@ More was said that didn't relate to a certain question. I'm placing those respon
 - Sometimes when inventing/developing things people get caught up in the juice (not the word he used, "juice" is EECS 494 Video Game Design terminology). He thinks results are more important than making your game impressive visually. 
 - Education seems to go through phases where some courses are more popular/pushed and others are forgotten. He thinks STEM classes has unintentionally replaced practical arts/personal finance/home economics courses. 
 - Games are a great way to introduce a concept which can then be expanded on.
-- He suggested I try to get a curriculum for a high school personal fiancne class to help with material for the game.
+- He suggested I try to get a curriculum for a high school personal finance class to help with material for the game.
 
 #### Conclusion
 
