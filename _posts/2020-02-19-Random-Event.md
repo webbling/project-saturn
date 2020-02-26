@@ -34,15 +34,15 @@ Unity's Update() function will run every second the game is launched. My idea is
 
 I found a Unity function called InvokeRepeating(string methodName, float time, float repeatTime). 
 
-![InvokeRepeating](/images/random_event/InvokeRepeating.png)
+![InvokeRepeating](/images/InvokeRepeating.png)
 
 This function can be called in the Start() function of a Unity monobehavior script. It will repeat the passed function every X second(s) based on the value passed in the repeatTime parameter. I tested this function by writing to the console log.
 
-![RepeatTest](/images/random_event/RepeatTest.png)
+![RepeatTest](/images/RepeatTest.png)
 
 During this function I will call Random.Range(0, 100) which will generate a random number. If this number is less than the current event chance, then the event will trigger. If it is larger than the event chance, then the event chance will increase by a determined amount.
 
-![EventHappening](/images/random_event/EventHappening.png)
+![EventHappening](/images/EventHappening.png)
 
 ## Thinking ahead
 
