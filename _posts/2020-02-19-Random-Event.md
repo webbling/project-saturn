@@ -50,6 +50,10 @@ I think it will be best to invoke a UnityEvent when the random number is less th
 
 Another thing I did was make my bool variable "eventHappening" a scriptable object. This will allow me to easily "pause game time" when the player encounters an event. I might still implement a event decision timer later on to force the player to think rationally in a quick manner, but that decision will be made further down the road.
 
+## Stakeholder Update
+
+I emailed Prodege Studios some questions as well as a high school personal finance teacher, but neither of them have responded. I'll reach out to them again and see if I can get some answers.
+
 ## Next Week
 
 I need to start designing and implementing UI for the Unity Scene. Doing this sooner rather than later will allow for better testing. All of my testing this week was done through the Unity Console which was a little annoying to do.
