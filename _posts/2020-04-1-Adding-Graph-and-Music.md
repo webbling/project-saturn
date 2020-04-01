@@ -32,7 +32,7 @@ I'm really interested in filling the empty space with a live graph of the scorin
 
 Code Monkey, a Unity tutorial channel, has a playlist on how to create a graph in Unity [here](https://youtu.be/ck72XNhxeS0). I watched the first video and then watched the summary video. It is a very detailed series that ends up creating a nice looking graph class for Unity, but I'm not sure it was exactly what I was looking for. Here's the graph from the video:
 
-![code_monkey_graph](/images/code_monkey_graph.png)
+![code_monkey_graph](/images/code_monkey_graph.PNG)
 
 My initial thoughts for a graph in Project Saturn looked more like this:
 
@@ -46,7 +46,7 @@ I decided that having a graph that incrementally updates is better than having n
 
 So I had to create new script files for the bit of his code that I wanted to use (also in his video description he says it's fine to use his graph code in viewer games). Instead of just copying and pasting lines in his scripts, I retyped the code so I could process and understand what each line was doing in case I needed to make tweaks later. So I followed the tutorial videos and implemented things about Code Monkey's graph class that I wanted in my graph and skipped over things I didn't want to implement. It was a wonderful tutorial, but the creator types REALLY fast and sort of fast forwards through things after he quickly explains what he's doing. I had to stop and pause often to actually see the code that he was writing. After I finished implementing the parts that I wanted, my graph looked like this: 
 
-![graph_after_tutorial](/images/graph_after_tutorial.png)
+![graph_after_tutorial](/images/graph_after_tutorial.PNG)
 
 Now it was time to implement the components to make my graph look more like my original vision of a moving stock graph. I only wanted the graph to run to about 2/3 of the graph width. When it reaches this amount of points, I wanted the oldest value to be removed from the graph when graphing a new "furthest" x-value. I was able to get a moving graph. It has a few bugs such as the axis separators leaking off the graph and the X-axis ages being 6 years ahead of where they should be, but I had already spent way more time working on the graph this week than I thought I was going to. I wanted to try to get a few more things done this week. I think the graph will be more exciting when the Billing Script is implemented. Here's a gif of the graph demo:
 
