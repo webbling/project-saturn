@@ -25,7 +25,7 @@ I got a lot of feedback about the graph and music I implemented plus a few other
 - Double Check Royalties on Music and future SFX
 - Variable music? (My personal note)
 
-This meeting is a a good example of how important the implementation/feedback loop is. I thought that the player would only be interested in the last five years of the graph. However, once the player got late into the game it was very uninteresting to look at. Part of this was also because I kept 0 as a permanent minimum for teh y-axis and the maximum 20% more than the checking account amount. This caused the graph to get squeezed into the top left corner of the graph.
+This meeting is a a good example of how important the implementation/feedback loop is. I thought that the player would only be interested in the last five years of the graph. However, once the player got late into the game it was very uninteresting to look at. Part of this was also because I kept 0 as a permanent minimum for the y-axis and the maximum 20% more than the checking account amount. This caused the graph to get squeezed into the top left corner of the graph.
 
 #### Plan for this Week
 
